@@ -1,5 +1,5 @@
 # Portfolio
-This is a Portfolio project to showcase my skills and achievements using HTML and CSS.
+A Portfolio project to showcase my skills and achievements using HTML and CSS.
 ![p1](https://github.com/SanjidaPearl/Portfolio/assets/88578806/d583ddff-c5aa-430d-97bd-a61617e23d5d)
 ![p2](https://github.com/SanjidaPearl/Portfolio/assets/88578806/ae01b12e-aa46-4c9d-a6e1-28fc75159b86)
 ![p3](https://github.com/SanjidaPearl/Portfolio/assets/88578806/aa53493c-d187-40f5-a1ce-765034653a71)
